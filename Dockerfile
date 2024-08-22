@@ -1,2 +1,2 @@
 FROM httpd
-COPY ./finexo/ /usr/local/apache2/htdocs
+COPY ./finexo/templates/ /usr/local/apache2/htdocs
